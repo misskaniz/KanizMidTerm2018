@@ -1,8 +1,9 @@
 package datastructure;
 
+
 public class DataReader {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		/*
 		 * User API to read the below textFile and print to console.
 		 * Use BufferedReader class. 
@@ -22,6 +23,6 @@ public class DataReader {
 
 
 
-	}
+
 
 }
